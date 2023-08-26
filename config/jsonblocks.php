@@ -20,7 +20,6 @@ return [
      */
     "supported_components" => [
         "image-block","list-block",
-        "share","safety"
     ],
 
     /**
