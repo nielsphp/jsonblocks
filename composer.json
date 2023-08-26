@@ -1,0 +1,16 @@
+{
+    "name": "nielsphp/jsonblocks",
+    "autoload": {
+        "psr-4": {
+            "Nielsphp\\JsonBlocks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Niels"
+        }
+    ],
+    "require": {
+        "graham-campbell/markdown": "15.0"
+    }
+}
