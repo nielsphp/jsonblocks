@@ -12,5 +12,12 @@
     ],
     "require": {
         "graham-campbell/markdown": "15.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nielsphp\\JsonBlocks\\JsonBlocksServiceProvider"
+            ]
+        }
     }
 }
